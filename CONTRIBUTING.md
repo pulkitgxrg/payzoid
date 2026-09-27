@@ -13,7 +13,7 @@ We welcome contributions to **PayZoid** and appreciate the effort made by every 
 ## How to Contribute
 
 ### Fork the Repository
-1. Fork the repository by clicking the "Fork" button on the [PayZoid GitHub page](https://github.com/pulkitgarg04/payzoid).
+1. Fork the repository by clicking the "Fork" button on the [PayZoid GitHub page](https://github.com/pulkitgxrg/payzoid).
 2. Clone your forked repository to your local machine:
    ```bash
    git clone https://github.com/<your-username>/payzoid.git
@@ -98,7 +98,7 @@ We welcome contributions to **PayZoid** and appreciate the effort made by every 
 
 We appreciate contributions in the following areas:
 
-- **Bug Fixes**: Help fix any issues found in the project. Check the [open issues](https://github.com/pulkitgarg04/payzoid/issues) for details.
+- **Bug Fixes**: Help fix any issues found in the project. Check the [open issues](https://github.com/pulkitgxrg/payzoid/issues) for details.
 - **Features**: Add new features to enhance the functionality of PayZoid.
   - For example, new payment integrations, analytics, or notification features.
 - **UI/UX Enhancements**: Improve the user interface, accessibility, and design.
