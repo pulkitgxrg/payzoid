@@ -1,10 +1,10 @@
 # PayZoid
 <p align="center">
-  <img src="https://socialify.git.ci/pulkitgarg04/payzoid/image?font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="payzoid" />
+  <img src="https://socialify.git.ci/pulkitgxrg/payzoid/image?font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="payzoid" />
 </p>
 <p align="center">
-  <a href="https://hits.sh/github.com/pulkitgarg04/payzoid/">
-    <img src="https://hits.sh/github.com/pulkitgarg04/payzoid.svg?style=plastic&color=0077bf" alt="Hits"/>
+  <a href="https://hits.sh/github.com/pulkitgxrg/payzoid/">
+    <img src="https://hits.sh/github.com/pulkitgxrg/payzoid.svg?style=plastic&color=0077bf" alt="Hits"/>
   </a>
 </p>
 
@@ -22,7 +22,7 @@ The app allows users to securely send, receive, and track their transactions, al
 #### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/pulkitgarg04/payzoid.git
+git clone https://github.com/pulkitgxrg/payzoid.git
 cd payzoid
 ```
 
